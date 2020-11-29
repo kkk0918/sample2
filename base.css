@@ -388,13 +388,13 @@ about
 
 @media only screen and (min-width: 768px) {
   .about {
-    background: url(/img/bg.png) center center/cover;
+    background: url(img/bg.png) center center/cover;
   }
 }
 
 @media only screen and (max-width: 767px) {
   .about {
-    background: url(/img/sp/bg@.png) center center/cover;
+    background: url(img/sp/bg@.png) center center/cover;
   }
 }
 

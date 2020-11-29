@@ -353,11 +353,11 @@ about
     }
 
     @include media(md){
-       background: url(/img/bg.png) center center/ cover;
+       background: url(img/bg.png) center center/ cover;
         
     }
     @include media(sm){
-       background: url(/img/sp/bg@.png) center center / cover;
+       background: url(img/sp/bg@.png) center center / cover;
     }
     
     &::before{
